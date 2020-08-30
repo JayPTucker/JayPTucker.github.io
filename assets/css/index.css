@@ -11,6 +11,10 @@ body {
     margin-bottom: calc(-10px + 0.1vmin)
 }
 
+.newsite {
+    font-size: 26px
+}
+
 /* SUB TITLE BELOW THAT */
 .sub-title {
     font-size: calc(12px + 1vmax);
