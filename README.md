@@ -23,4 +23,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or need to contact me, please feel free to reach out to me via email at [jaypaultucker@gmail.com](mailto:jaypaultucker@gmail.com) or through my new portfolio website [NEW_PORTFOLIO_URL].
+If you have any questions or need to contact me, please feel free to reach out to me via email at [jaypaultucker@gmail.com](mailto:jaypaultucker@gmail.com) or through my new portfolio website https://jayptucker.com
