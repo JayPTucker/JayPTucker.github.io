@@ -1,56 +1,26 @@
-# JayPTucker: 
-![License](https://img.shields.io/badge/License-CCL-brightgreen) 
+# JayPTucker.github.io
 
-**Live Link: [Click me!](https://jayptucker.github.io/)** 
- 
-**GitHub Repository: [Click me!](https://github.com/JayPTucker/JayPTucker.github.io)** 
+This repository contains the source code for my old portfolio website, which is no longer in use. The website was built using HTML, CSS, and JavaScript, and it showcases my past projects, skills, and resume.
 
-**My Website: [Click me!](https://www.jayptucker.com/)**
- 
-## 📄 Description: <a name='description'></a> 
-**Updated (6/2/20):**
+## Website Link
 
-This is a Website all about me!  Really and truly I built this Website from Nothing in order to show Employers and Others on what Work I am able to do in the Web Developer field.  It displays what I can do, past works, contact information, etc.  A lot of time and effort was put into making this site look nice and I learned a ton along the way.
- 
-## 📖 Table of Contents: 
-- [Description](#description) 
-- [Installation](#installation) 
-- [Usage](#usage) 
-- [Credits](#credits) 
-- [Screenshots](#screenshots) 
+The portfolio website was hosted on GitHub Pages and can be accessed at the following URL: [https://jayptucker.github.io/](https://jayptucker.github.io/)
 
- 
-## 🔌 Installation: <a name='installation'></a> 
+## Technologies Used
 
-**Requirements:**
-- [VSCode](https://code.visualstudio.com/)
-- [GitBash](https://git-scm.com/downloads)
+- HTML: The markup language used for building the website's structure.
+- CSS: The styling language used for designing the website's layout and appearance.
+- JavaScript: The programming language used for adding interactivity and dynamic elements to the website.
+- GitHub Pages: The free hosting service used for deploying the website and making it accessible online.
 
-**Installation Steps:**
-1.  Clone the file from my [GitHub](https://github.com/JayPTucker/JayPTucker.github.io)
-2.  Put it somewhere you'll remember (Best Choice for Easy Access: In a Folder on your Desktop)
-3.  Open GitBash and cd directly into the directory.
-    - "cd desktop" > "cd JayPTucker.github.io" > Done!
-4.  Once you're CD'd inside of the Repository, type "code ." into GitBash and hit Enter.
-5.  VSCode should open (Or any other Software you use to code).
-6.  From there, you have all your files you need to begin coding.
-7.  Have fun!  Send me what you changed!
- 
-## 💻 Usage: <a name='usage'></a> 
- 
-The only main uses here is to just get to know me and be able to contact me for any business-related things.
- 
-## 👨‍💼 Credits <a name='credits'></a>: 
- 
-<img src="https://avatars3.githubusercontent.com/u/58493507?s=460&u=263ac14280eff2f063c0507859985bb7750aaa00&v=4" width="70" style="border: 2px solid black"></img><br>
-<a href="https://github.com/JayPTucker"><b>@JayPTucker</b></a>
-<ul>
-    <li><b>ROLE:</b> Main Developer</li>
-</ul>
-<br>
- 
-## 📷 Screenshots: <a name='screenshots'></a>
-![Example1](/assets/img/my-site-img.png)
+## Deprecated Status
 
-## License:
-https://creativecommons.org/licenses/
+Please note that this portfolio website is no longer actively maintained and is not being updated with new projects or information. It has been replaced by a new portfolio website at a different URL [NEW_PORTFOLIO_URL] which is the current version of my portfolio.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+If you have any questions or need to contact me, please feel free to reach out to me via email at [jaypaultucker@gmail.com](mailto:jaypaultucker@gmail.com) or through my new portfolio website [NEW_PORTFOLIO_URL].
